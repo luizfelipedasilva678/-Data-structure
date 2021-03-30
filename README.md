@@ -1,2 +1,2 @@
-# -Data-structure
+data-structure
 Some files used while studying the data structure.
